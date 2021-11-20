@@ -15,3 +15,4 @@
 
 # General Structure
 
+<img src="assets/general.PNG" width="10000">
