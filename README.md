@@ -66,8 +66,20 @@ Launch app.
 
 N.B : You cannot edit Firebase data because the file that contains it (.env) is deleted.
 
+# Donation
+
+### Ethereum
+
+```0x7cad12dfd11bce3f29b96260b4739caa32c89a86```
+
+### Bitcoin
+
+```3FahtNWC4tmZh1B72vz44TvBN2jHaQSnh4```
+
+
+
 # I love easters-eggs...
 
 Can you find them all? Contact me through my site! ``DenSpec#tbcD``
 
-Maybe even if you find the page listing all the easters eggs?
+Maybe even if you find the page listing all the easters eggs? (no it's wrong otherwise too easy)
