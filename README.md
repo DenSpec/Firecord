@@ -65,3 +65,9 @@ Launch app.
 - ``npm start``
 
 N.B : You cannot edit Firebase data because the file that contains it (.env) is deleted.
+
+# I love easters-eggs...
+
+Can you find them all? Contact me through my site! ``DenSpec#tbcD``
+
+Maybe even if you find the page listing all the easters eggs?
