@@ -53,3 +53,15 @@ src
   └── page 
      └── components 
 ```
+
+# Run Locally (basic instruction)
+
+Install all packages
+
+- ``npm install``
+
+Launch app.
+
+- ``npm start``
+
+N.B : You cannot edit Firebase data because the file that contains it (.env) is deleted.
