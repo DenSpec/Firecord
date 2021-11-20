@@ -16,3 +16,40 @@
 # General Structure
 
 <img src="assets/general.PNG" width="10000">
+
+```
+src 
+  └──server
+     └── components 
+        └── channel
+                └── chat
+                └── list
+                └── show
+
+        └── server
+           └── assets
+
+        └── test
+        └── UI
+           └── CSS
+           └── Sidebar 
+     └── assets
+        └── img
+        └── audio
+        └── video
+ 
+  └── utils
+     └── assets
+     └── audio
+     └── route
+
+  └── store 
+     └── Channel
+     └── Server
+
+  └── auth 
+     └── backend 
+
+  └── page 
+     └── components 
+```
