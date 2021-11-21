@@ -54,6 +54,10 @@ src
      └── components 
 ```
 
+<img src="assets/register.PNG">
+
+
+
 # Run Locally (basic instruction)
 
 Install all packages
