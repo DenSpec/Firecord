@@ -1,3 +1,5 @@
+/* Pour plus d'information, veuillez regardé la documentation de Redux. */
+
 import { createSlice } from "@reduxjs/toolkit";
 
 const initialState = {
