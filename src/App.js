@@ -1,4 +1,4 @@
-// Fonctionnalités //
+// Fonctionnalités 
 import React from "react";
 import Home from "./page/Home";
 import Login from "./auth/Login";
@@ -12,10 +12,9 @@ import InServer from './server/components/server/InServer'
 import InChannel from './server/components/channel/show/InChannel'
 import Register from './auth/Register'
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-// L'app //  
 
-// Comme vous voyez pour le /server, le private route se met en action.
-// Le component est affiché géneralement en bas de page, ex : export default APP.
+/* Quand le private route est en action, si la personne n'est pas connecté
+on le mène vers la Login page, grâce au "utiles/PrivateRoute.js" */
 const App = () => {
   return (
     <AuthProvider>
