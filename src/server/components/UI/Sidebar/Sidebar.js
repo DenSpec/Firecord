@@ -17,12 +17,12 @@ import firebase from "firebase/compat/app";
 
 const Sidebar = () => { 
 
- 
   const db = firebase.firestore()
   const [user] = useAuthState(auth)
   const [server] = useCollection(db.collection("server"));
- /* Le prompt correspond comme un input. Si il a bien mis
+ /* Le prompt correspond comme un input. Si il a bien 
   complèté, il va créé une nouvelle collection */
+   
    const handleAddServer = () => {
     const serverName = prompt("Le nom de votre serveur : ")
     if (serverName) {
