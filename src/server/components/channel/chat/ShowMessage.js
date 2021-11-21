@@ -10,8 +10,6 @@ import { useSelector } from "react-redux";
 import { selectServerId, selectServerName} from "../../../../store/ServerSlice";
 import {HiTrash} from 'react-icons/hi'
 import { doc, getDoc } from "firebase/firestore";
-
-// Firebase
 import { selectChannelId, selectChannelName } from  '../../../../store/ChannelSlice'
 
 function ShowMessage({ id, message, timestamp, name, email, photoURL }) {
