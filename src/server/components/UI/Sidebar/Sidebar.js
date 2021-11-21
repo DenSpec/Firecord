@@ -1,4 +1,4 @@
-// Fonctionnalité // 
+// Fonctionnalité 
 import React, { } from 'react'
 import { BsPlus } from 'react-icons/bs';
 import { FaDiscord} from 'react-icons/fa';
@@ -14,15 +14,16 @@ import 'firebase/compat/auth';
 import { auth } from "../../../../auth/backend/database"
 import database from "../../../../auth/backend/database";
 import firebase from "firebase/compat/app";
-// Font Awesome 
 
 const Sidebar = () => { 
 
-  // Iniatalisation de firebase.
+ 
   const db = firebase.firestore()
   const [user] = useAuthState(auth)
   const [server] = useCollection(db.collection("server"));
-  const handleAddServer = () => {
+ /* Le prompt correspond comme un input. Si il a bien mis
+  complèté, il va créé une nouvelle collection */
+   const handleAddServer = () => {
     const serverName = prompt("Le nom de votre serveur : ")
     if (serverName) {
       db.collection("server").add({
