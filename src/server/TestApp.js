@@ -1,10 +1,10 @@
-// Fonctionnalité // 
+// Fonctionnalité 
 import React, { } from 'react'
 import 'firebase/compat/auth';
 import './components/home.css'
 import Sidebar from './components/UI/Sidebar/Sidebar'
 import aladeen from './assets/aladeen.png'
-// Dans la page server : //
+// Affichage : 
 const HomeTest = () => {
 
   return (
