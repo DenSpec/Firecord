@@ -24,7 +24,10 @@ const ChannelList = ({serverName}) => {
     .collection("channel")
     .orderBy("timestamp", "asc")
     );
-    const handleAddChannel = () => {
+/* Le prompt correspond comme un input. Si il a bien 
+  complèté, il va créé une nouvelle collection */
+  
+  const handleAddChannel = () => {
       const channelName = prompt("Le nom de votre channel: ")
       if (channelName) {
         db.collection("server").doc(serverId).collection("channel").add({
