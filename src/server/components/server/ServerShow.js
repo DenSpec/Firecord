@@ -1,17 +1,16 @@
-// Fonctionnalité // 
+// Fonctionnalité 
 import React, { } from 'react'
 import { BsQuestionLg } from 'react-icons/bs';
-
-// Firebase
 import 'firebase/compat/auth';
 import { useDispatch } from 'react-redux';
 import { useHistory } from 'react-router';
 import { setServerInfo} from '../../../store/ServerSlice'
+
 function ServerShow({ id, serverName}){
     const dispatch = useDispatch();
     const history = useHistory();
     
-    // Initiliation de firebase
+    // Redux
     const setServer = () => {
         dispatch(
           setServerInfo({
