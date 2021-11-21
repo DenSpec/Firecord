@@ -4,8 +4,6 @@ import { BsPlus, BsQuestionLg } from 'react-icons/bs';
 import { FaDiscord} from 'react-icons/fa';
 import { IoSettings } from 'react-icons/io5';
 import { HiPlusCircle, HiHashtag } from "react-icons/hi";
-
-// Firebase
 import 'firebase/compat/auth';
 import { useDispatch } from 'react-redux';
 import { useHistory } from 'react-router';
@@ -15,7 +13,7 @@ import { setChannelInfo} from '../../../../store/ChannelSlice'
 function ChannelShow({ id, channelName}){
     const dispatch = useDispatch();
     const history = useHistory();
-
+// Redux
     const setChannel = () => {
         dispatch(
           setChannelInfo({
