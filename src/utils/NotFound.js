@@ -7,12 +7,11 @@ import Alert from '@material-ui/lab/Alert';
 import ReactDOM from "react-dom";
 // Easter Eggs
 import banana from './assets/banana.gif'
-import Popup from "reactjs-popup"
 // Affichage
 
 const NotFound = () => {
 
-  // Easter-Eggs
+  // I'm a banana, banana power ! 🍌
   let audio = new Audio("/banana-audio.mp3")
   const start = () => {
     audio.play()
