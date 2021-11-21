@@ -1,10 +1,10 @@
-// Fonctionnalité // 
+// Fonctionnalité 
 import React from 'react'
 import database from "../auth/backend/database";
 import 'firebase/compat/auth';
 import { Button} from "@material-ui/core"
 
-// Dans la page server : //
+// Affichage :
 const Server = () => {
 
   return (
