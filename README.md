@@ -70,7 +70,7 @@ Launch app.
 
 N.B : You cannot edit Firebase data because the file that contains it (.env) is deleted.
 
-# Donation
+# Support~Donation
 
 ### Ethereum
 
