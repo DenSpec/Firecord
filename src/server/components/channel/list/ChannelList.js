@@ -1,3 +1,4 @@
+// Fonctionnalité
 import React, { } from 'react'
 import { BsPlus } from 'react-icons/bs';
 import { RiSettings3Fill } from "react-icons/ri";
@@ -9,7 +10,6 @@ import firebase from "firebase/compat/app";
 import { useSelector } from "react-redux";
 import { selectServerId } from "../../../../store/ServerSlice";
 import ChannelShow from '../show/ChannelShow'
-// Firebase
 
 const ChannelList = ({serverName}) => { 
   const db = firebase.firestore()
