@@ -1,4 +1,4 @@
-# DiscordClone
+# Firecord
 <img src="assets/discordclone.PNG" width="10000">
 
 # Framework
