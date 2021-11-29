@@ -72,13 +72,12 @@ N.B : You cannot edit Firebase data because the file that contains it (.env) is 
 
 # Support~Donation
 
-### Ethereum
+<img src="assets/donation.png">
 
-```0x7cad12dfd11bce3f29b96260b4739caa32c89a86```
 
-### Bitcoin
-
-```3FahtNWC4tmZh1B72vz44TvBN2jHaQSnh4```
+| Bitcoin | Ethereum | 
+|-----------------|:-------------| 
+| ```3FahtNWC4tmZh1B72vz44TvBN2jHaQSnh4``` | ```0x7cad12dfd11bce3f29b96260b4739caa32c89a86```   | 
 
 
 
