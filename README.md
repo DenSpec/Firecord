@@ -70,15 +70,11 @@ Launch app.
 
 N.B : You cannot edit Firebase data because the file that contains it (.env) is deleted.
 
-# Support~Donation
+## Donation~Support
 
-<img src="assets/donation.png">
-
-
-| Bitcoin | Ethereum | 
-|-----------------|:-------------| 
-| ```3FahtNWC4tmZh1B72vz44TvBN2jHaQSnh4``` | ```0x7cad12dfd11bce3f29b96260b4739caa32c89a86```   | 
-
+| Paypal | Bitcoin | Ethereum | 
+|-----------------|-----------------|:-------------| 
+| ``paypal.me/denspec`` | ```3FahtNWC4tmZh1B72vz44TvBN2jHaQSnh4``` | ```0x7cad12dfd11bce3f29b96260b4739caa32c89a86```   | 
 
 
 # I love easters-eggs...
