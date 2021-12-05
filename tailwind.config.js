@@ -11,7 +11,6 @@ module.exports = {
  },      
     extend: {
       colors: {
-      discord_channelsBg: '#2f3136' 
       },
         gray: {
           900: '#202225',
