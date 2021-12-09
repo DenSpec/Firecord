@@ -73,7 +73,7 @@ Edit .env file, and put informations of your firebase data.
 
 ## Donation~Support
 
-<img src="assets/donation">
+<img src="assets/donation.png">
 
 | Bitcoin | Ethereum | 
 |----------------|:-------------| 
