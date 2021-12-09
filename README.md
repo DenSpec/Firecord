@@ -3,7 +3,7 @@
 The project is still in beta, but the main features are already present.
 
 
-Youtube Video -> Soon !
+Youtube Video ➡️ Soon !
 
 # Main Framework
 ### Client 
@@ -73,6 +73,7 @@ Edit .env file, and put informations of your firebase data.
 
 ## Donation~Support
 
+<img src="assets/donation">
 
 | Bitcoin | Ethereum | 
 |----------------|:-------------| 
