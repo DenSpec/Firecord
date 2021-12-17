@@ -82,3 +82,7 @@ Edit .env file, and put informations of your firebase data.
 # I love easters-eggs...
 
 Can you find them all?
+
+# Licence 
+
+You can find the license [here](https://github.com/DenSpec/Firecord/blob/main/LICENCE.md)
